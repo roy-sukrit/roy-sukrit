@@ -6,6 +6,10 @@
     
 <a href="https://www.linkedin.com/in/sukrit-roy-chowdhury-398030146/">
     <img src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
+    
+</a>
+<a href="https://www.instagram.com/my_coding_journal/">
+        <img src="https://img.shields.io/badge/instagram%20-%230077B5.svg?&style=for-the-badge&logo=instagram&logoColor=default"/>
 </a>
 
 - 🔭 Working with MERN Stack 
