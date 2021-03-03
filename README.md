@@ -18,11 +18,11 @@
 <tbody>
 <td>
     
-![Roy Sukrit's Github stats](https://github-readme-stats.vercel.app/api?username=roy-sukrit&theme=dark&show_icons=true)
+![Roy Sukrit's Github stats](https://github-readme-stats.vercel.app/api?username=roy-sukrit&theme=dark&show_icons=true&text_color=FFFFFF)
 </td>
 <td>
     
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=roy-sukrit&exclude_repo=natours-css&theme=dark&hide=hack&text_color=BDDFFF&layout=compact&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=roy-sukrit&exclude_repo=natours-css&theme=dark&show_icons=true&text_color=FFFFFF&layout=compact&show_icons=true&text_bold)
 </td>
 </tbody>
 </table>
