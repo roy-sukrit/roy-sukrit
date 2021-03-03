@@ -8,24 +8,13 @@
     <img src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-- 🔭 Working wiht MERN Stack 
+- 🔭 Working with MERN Stack 
 - 🌱 Trying to improve everyday
 - 👯 I’m looking to collaborate on All Projects XD
 - 💬 Ask me about MERN Stack
 - ⚡ Fun fact: I'm Pianist and i have created a repo for LED STRIP mapping on MIDI response 
 
-<table align="center">
-<tbody>
-<td>
-    
-![Roy Sukrit's Github stats](https://github-readme-stats.vercel.app/api?username=roy-sukrit&theme=dark&show_icons=true)
-</td>
-<td>
-    
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=roy-sukrit&exclude_repo=natours-css&theme=dark&hide=hack&text_color=BDDFFF&layout=compact)
-</td>
-</tbody>
-</table>
+
 
 <!--
 **roy-sukrit/roy-sukrit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
