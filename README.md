@@ -1,6 +1,6 @@
 <h1 align="center"> Roy Sukrit </h1>
 
-<h3 align="center"> ReactJS | NodeJS | MongoDb | Firebase | ExpressJS  </h3>
+<h3 align="center"> ReactJS | NodeJS | MongoDb | Firebase | ExpressJS | Python </h3>
 
 <p align="center">
     
@@ -12,7 +12,7 @@
         <img src="https://img.shields.io/badge/instagram%20-%230077B5.svg?&style=for-the-badge&logo=instagram&logoColor=default"/>
 </a>
 
-- 🔭 Working with MERN Stack 
+- 🔭 Working with MERN Stack and Python 
 - 🌱 Trying to improve everyday
 - 👯 I’m looking to collaborate on All Projects XD
 - 💬 Ask me about MERN Stack
