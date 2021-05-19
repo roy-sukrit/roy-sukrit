@@ -8,15 +8,13 @@
     <img src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
     
 </a>
-<a href="https://www.instagram.com/my_coding_journal/">
-        <img src="https://img.shields.io/badge/instagram%20-%230077B5.svg?&style=for-the-badge&logo=instagram&logoColor=default"/>
-</a>
+
 
 - 🔭 Working with MERN Stack and Python 
 - 🌱 Trying to improve everyday
 - 👯 I’m looking to collaborate on All Projects XD
-- 💬 Ask me about MERN Stack
-- ⚡ Fun fact: I'm Pianist and i have created a repo for LED STRIP mapping on MIDI response 
+- 💬 Ask me about MERN Stack . python
+- ⚡ Fun fact: I'm Pianist and i have created a repo for LED STRIP mapping on MIDI response using C++
 
 <table align="center">
 <tbody>
