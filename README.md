@@ -1,5 +1,5 @@
-<h1 align="center">Roy Sukrit</h1>
-<h3 align="center">Computer Vision & AI Researcher · Software Engineer</h3>
+<h1 align="center">👋 Hi, I'm Roy Sukrit</h1>
+<h3 align="center">🔬 Computer Vision & AI Researcher · 💻 Software Engineer</h3>
 <p align="center">
   <a href="https://www.linkedin.com/in/sukrit-roy-chowdhury-398030146/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -8,39 +8,69 @@
     <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
   </a>
 </p>
+<br>
+<h2 align="center">✨ GitHub at a Glance</h2>
+<table align="center">
+<tr>
+<td align="center" width="160">
 
-⸻
+📦
 
-<h2 align="center">📊 GitHub Stats</h2>
+<h2>34</h2>
+
+Repositories
+
+</td>
+<td align="center" width="160">
+
+⭐
+
+<h2>24</h2>
+
+Stars
+
+</td>
+<td align="center" width="160">
+
+👥
+
+<h2>6</h2>
+
+Followers
+
+</td>
+<td align="center" width="160">
+
+🔗
+
+<h2>18</h2>
+
+Following
+
+</td>
+</tr>
+</table>
+<br>
 <p align="center">
-  <img src="https://img.shields.io/badge/📁_Repositories-34-0969DA?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/⭐_Stars-24-F9C513?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/👥_Followers-6-8250DF?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/👤_Following-18-1F883D?style=for-the-badge"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3"/>
 </p>
 
-⸻
+🧠 What I Work On
 
-🔬 About Me
+🔬 Computer Vision — synthetic faces, face biometrics & representation learning
 
-I’m a Computer Vision & AI researcher working on synthetic data, face biometrics, demographic representation, and trustworthy AI.
+🤖 Generative AI — synthetic data generation & evaluation
 
-Currently exploring ethnicity-conditioned synthetic faces, DINOv2, CLIP, and quantitative evaluation of generative models.
+⚖️ Trustworthy AI — demographic representation & model evaluation
 
-Also experienced in full-stack development with the MERN stack and Python.
+💻 Software Engineering — MERN stack & Python
 
 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,pytorch,opencv,cpp,react,nodejs,express,mongodb,firebase,aws,azure,git,linux"/>
+  <img src="https://skillicons.dev/icons?i=python,pytorch,opencv,cpp,react,nodejs,express,mongodb,firebase,aws,azure,git,linux&perline=7"/>
 </p>
-
-🚀 Interests
-
-Computer Vision · Deep Learning · Generative AI · Synthetic Data · Face Biometrics · AI Fairness · MERN
-
-⸻
-
+<br>
 <p align="center">
-  <i>Building intelligent systems, measuring them carefully, and understanding where they fail.</i>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </p>
